@@ -1,3 +1,8 @@
+nel.goog
+nhacmp3youtube.com
+o.pki.goog
+clients4.google.com
+clients3.google.com
 googlevideo.com
 redirector.googlevideo.com
 manifest.googlevideo.com
@@ -22,6 +27,10 @@ ggpht.com
 ggpht.cn
 ytimg-edge.googleusercontent.com
 yt3.googleusercontent.com
+googleusercontent.com
+googletagservices.com
+googlesyndication.com
+googletagmanager.com
 yt-video-upload.l.google.com
 sslvideo-upload.l.google.com
 video-stats.l.google.com
