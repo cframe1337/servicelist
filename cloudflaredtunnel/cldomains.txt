@@ -1,0 +1,13 @@
+region1.v2.argotunnel.com
+region2.v2.argotunnel.com
+argotunnel.com
+cftunnel.com
+h2.cftunnel.com
+quic.cftunnel.com
+us-region1.v2.argotunnel.com
+us-region2.v2.argotunnel.com
+fed-region1.v2.argotunnel.com
+fed-region2.v2.argotunnel.com
+cfargotunnel.com
+trycloudflare.com
+runcloudflare.net
