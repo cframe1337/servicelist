@@ -1,0 +1,16 @@
+chatgpt.com
+chat.openai.com
+api.openai.com
+auth.openai.com
+auth0.openai.com
+setup.auth.openai.com
+featuregates.org
+prodregistryv2.org
+ab.chatgpt.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+intercom.io
+android.chat.openai.com
+ios.chat.openai.com
+desktop.chat.openai.com
+intercomcdn.com
