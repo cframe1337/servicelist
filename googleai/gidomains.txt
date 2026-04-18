@@ -34,9 +34,6 @@ analytics.google.com
 www.googletagmanager.com
 safebrowsing.google.com
 sb-ssl.google.com
-recaptcha.net
-www.google.com/recaptcha
-www.gstatic.com/recaptcha
 deepmind.google
 cloud.google.com
 console.cloud.google.com
