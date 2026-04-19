@@ -16,17 +16,13 @@ asia-northeast1-aiplatform.googleapis.com
 asia-southeast1-aiplatform.googleapis.com
 australia-southeast1-aiplatform.googleapis.com
 geminidataanalytics.googleapis.com
-maps.googleapis.com
 khm.googleapis.com
 khm0.googleapis.com
 mt.googleapis.com
 mapsresources-pa.googleapis.com
-www.googleapis.com
 oauth2.googleapis.com
 firebase.googleapis.com
-firebaseio.com
 firebaseinstallations.googleapis.com
-fcm.googleapis.com
 firebaseremoteconfig.googleapis.com
 www.google-analytics.com
 region1.google-analytics.com
