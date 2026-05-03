@@ -32,6 +32,16 @@ safebrowsing.google.com
 sb-ssl.google.com
 deepmind.google
 cloud.google.com
+antigravity.google
+www.antigravity.google
+gweb-jetski.uc.r.appspot.com
+prod-20260421t174545-dot-gweb-jetski.appspot.com
+prod-20260421t174545-dot-gweb-jetski.uc.r.appspot.com
+google-analytics.com
+googletagmanager.com
+gstatic.com
+accounts.google.com
+gweb-jetski.appspot.com
 console.cloud.google.com
 developers.google.com
 apis-explorer.appspot.com
